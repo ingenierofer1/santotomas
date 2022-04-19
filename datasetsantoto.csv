@@ -1,4 +1,4 @@
-Nombre;Apellido(s);Facultad;Direccion de correo;Estado de la prueba;Cuestionario Inglès;Cuestionario Lectura Critica;Cuestionario Razonamiento Cuantitativo;Cuestionario Competencias Ciudadanas;Total;Promedio
+Nombre;Apellido(s);Facultad;Direccion de correo;Estado de la prueba;Cuestionario Ingles;Cuestionario Lectura Critica;Cuestionario Razonamiento Cuantitativo;Cuestionario Competencias Ciudadanas;Total;Promedio
 GUSTAVO ANDRES;ACEVEDO DELGADO;Ciencias Administrativas y Economicas;gustavoacevedo@usantotomas.edu.co;COMPLETA;9,31;6;4;10;29,31;6,67
 ANA SOFIA;ACOSTA ALVAREZ;Ciencias Juridicas y Politicas;anaacostaa@usantotomas.edu.co;COMPLETA;7,24;4;2;7;20,24;4,33
 DANNY LEONARDO;ACOSTA FRAILE;Ingenierias;dannyacosta@usantotomas.edu.co;COMPLETA;5,17;7;5;9;26,17;7
@@ -62,7 +62,7 @@ ANDRES FELIPE;BENAVIDES ZABALETA;Ingenierias;andresbenavidesz@usantotomas.edu.co
 FREDY ALEJANDRO;BENITEZ TRASLAVINA;Ingenierias;fredybenitez@usantotomas.edu.co;COMPLETA;9,31;9;3;7;28,31;6,33
 CHRISTIAN MATEO;BENITO RUSINQUE;Ingenierias;christianbenito@usantotomas.edu.co;COMPLETA;6,21;8;5;9;28,21;7,33
 SANTIAGO;BERMUDEZ PINEDA;Ingenierias;santiago.bermudez@usantotomas.edu.co;COMPLETA;7,93;8;5;10;30,93;7,67
-TOMAS FELIPE;BERNAL CASTAÑEDA;Ingenierias;tomasbernal@usantotomas.edu.co;COMPLETA;7,59;4;6;6;23,59;5,33
+TOMAS FELIPE;BERNAL CASTANEDA;Ingenierias;tomasbernal@usantotomas.edu.co;COMPLETA;7,59;4;6;6;23,59;5,33
 YOHAN STIVEN;BERNAL HERNANDEZ;Ciencias Juridicas y Politicas;yohanbernal@usantotomas.edu.co;COMPLETA;6,55;2;2;5;15,55;3
 PAULA ANDREA;BETANCOUR GONZALEZ;Ciencias Administrativas y Economicas;paulabetancour@usantotomas.edu.co;COMPLETA;5,17;6;2;8;21,17;5,33
 MATEO ANDRES;BLANCO RODRIGUEZ;Ciencias de la Salud;mateoblanco@usantotomas.edu.co;COMPLETA;5,86;7;3;9;24,86;6,33
@@ -78,7 +78,7 @@ SAMUEL DAVID;BUSTILLO NARINO;Ingenierias;samuelbustillo@usantotomas.edu.co;COMPL
 ANA MARIA;CABAS VARGAS;Ciencias Sociales;anacabas@usantotomas.edu.co;COMPLETA;6,21;8;2;6;22,21;5,33
 JUANA VALENTINA;CAHUACHE LEON;Ciencias Juridicas y Politicas;juanacahuache@usantotomas.edu.co;COMPLETA;3,79;6;2;5;16,79;4,33
 YENIFER DAYANA;CALDERON FONSECA;Ciencias Administrativas y Economicas;yenifercalderon@usantotomas.edu.co;COMPLETA;6,55;8;6;5;25,55;6,33
-ANDREA ESTEFANÍA;CALDERON TARAZONA;Ciencias Sociales;andreacalderon@usantotomas.edu.co;COMPLETA;6,21;7;5;4;22,21;5,33
+ANDREA ESTEFANIA;CALDERON TARAZONA;Ciencias Sociales;andreacalderon@usantotomas.edu.co;COMPLETA;6,21;7;5;4;22,21;5,33
 VALENTINA;CALVO BARRERA;Ciencias Sociales;valentinacalvo@usantotomas.edu.co;COMPLETA;8,97;8;6;8;30,97;7,33
 LEYDY NATALY;CAMACHO HERRERA;Ingenierias;leydy.camacho@usantotomas.edu.co;COMPLETA;9,66;8;4;9;30,66;7
 JUAN SEBASTIAN;CAMACHO MARTINEZ;Ciencias Administrativas y Economicas;juan.camachom@usantotomas.edu.co;COMPLETA;4,83;9;1;9;23,83;6,33
@@ -158,7 +158,7 @@ MARIA FERNANDA;ESCALANTE PATINO;Ciencias Administrativas y Economicas;mariaescal
 JUAN ANDRES;ESCOBAR MORA;Ciencias Administrativas y Economicas;juan.escobarm@usantotomas.edu.co;COMPLETA;9,31;8;6;9;32,31;7,67
 JUAN CAMILO;ESLAVA WALTEROS;Ciencias Juridicas y Politicas;juaneslava@usantotomas.edu.co;COMPLETA;8,62;9;4;10;31,62;7,67
 PAULA ALEJANDRA;ESPINOSA MARTINEZ;Ciencias Juridicas y Politicas;paulaespinosam@usantotomas.edu.co;COMPLETA;6,9;8;2;6;22,9;5,33
-DAVID ANDRÉS;ESQUIVEL VASQUEZ;Ingenierias;esquiveldavid@usantotomas.edu.co;COMPLETA;9,31;8;1;10;28,31;6,33
+DAVID ANDRES;ESQUIVEL VASQUEZ;Ingenierias;esquiveldavid@usantotomas.edu.co;COMPLETA;9,31;8;1;10;28,31;6,33
 LINA MARIA;FARFAN CAMARGO;Ciencias de la Salud;linafarfan@usantotomas.edu.co;COMPLETA;7,24;7;6;8;28,24;7
 MARIA SOFIA;FARFAN PULIDO;Ciencias Administrativas y Economicas;mariafarfanp@usantotomas.edu.co;COMPLETA;7,93;6;5;8;26,93;6,33
 JUAN ESTEBAN;FERNANDEZ SALAZAR;Ingenierias;juan.fernandezs@usantotomas.edu.co;COMPLETA;8,28;7;5;4;24,28;5,33
@@ -350,7 +350,7 @@ JULIAN SANTIAGO;PENAGOS FERNANDEZ;Ciencias Juridicas y Politicas;julianpenagos@u
 SOFIA MICHELLE;PENAGOS GAMBA;Ciencias Sociales;sofiapenagos@usantotomas.edu.co;COMPLETA;8,97;6;6;8;28,97;6,67
 CHRISTIAN ROLANDO;PERALTA RESTREPO;Ingenierias;christianperalta@usantotomas.edu.co;COMPLETA;6,55;7;3;7;23,55;5,67
 JUAN DIEGO;PERDOMO MOLINA;Ciencias de la Salud;juanperdomo@usantotomas.edu.co;COMPLETA;7,59;2;4;8;21,59;4,67
-SANTIAGO;PEREIRA GARCÍA;Ciencias de la Salud;santiagopereira@usantotomas.edu.co;COMPLETA;8,28;8;3;8;27,28;6,33
+SANTIAGO;PEREIRA GARCIA;Ciencias de la Salud;santiagopereira@usantotomas.edu.co;COMPLETA;8,28;8;3;8;27,28;6,33
 LAURA VALENTINA;PEREZ MORENO;Ciencias Sociales;lauraperezm@usantotomas.edu.co;COMPLETA;6,55;5;2;6;19,55;4,33
 DIEGO ALEJANDRO;PETRO CORTES;Ciencias Administrativas y Economicas;diegopetro@usantotomas.edu.co;COMPLETA;10;10;5;10;35;8,33
 ISABELLA;PINA JIMENEZ;Ciencias Sociales;isabellapina@usantotomas.edu.co;COMPLETA;4,48;4;1;8;17,48;4,33
@@ -359,7 +359,7 @@ LAURA FERNANDA;PINEDA ZAMBRANO;Ingenierias;laurapinedaz@usantotomas.edu.co;COMPL
 DANNA VALENTINA;PINEROS HURTADO;Ciencias Administrativas y Economicas;dannapineros@usantotomas.edu.co;COMPLETA;5,17;9;4;10;28,17;7,67
 JABEL DANIELA;PINEROS LEON;Ciencias Sociales;jabelpineros@usantotomas.edu.co;COMPLETA;8,62;9;4;6;27,62;6,33
 DANIEL FELIPE;PINILLA DAZA;Ingenierias;daniel.pinilla@usantotomas.edu.co;COMPLETA;8,28;8;5;8;29,28;7
-DIEGO SEBASTIÁN;PINTO LEON;Ciencias Administrativas y Economicas;diegopintol@usantotomas.edu.co;COMPLETA;6,9;7;2;6;21,9;5
+DIEGO SEBASTIAN;PINTO LEON;Ciencias Administrativas y Economicas;diegopintol@usantotomas.edu.co;COMPLETA;6,9;7;2;6;21,9;5
 ZAHIRAKHUNTY;PINZON DELGADO;Ciencias Juridicas y Politicas;zahirakhuntypinzon@usantotomas.edu.co;COMPLETA;8,28;7;6;7;28,28;6,67
 CLAUDIA CATALINA;PINZON REDONDO;Ciencias Administrativas y Economicas;claudiapinzonr@usantotomas.edu.co;COMPLETA;5,17;6;5;5;21,17;5,33
 DANIEL FERNANDO;PIRA TELLEZ;Ciencias Administrativas y Economicas;daniel.pira@usantotomas.edu.co;COMPLETA;10;9;6;10;35;8,33
